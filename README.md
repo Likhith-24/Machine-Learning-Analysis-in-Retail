@@ -1,3 +1,11 @@
+---
+
+<p align="center">
+  <img src="https://th.bing.com/th/id/OIG2.J6L0e.XLMomi4VHYjlRR?pid=ImgGn" alt="Project Image" width="400" height="400">
+</p>
+
+---
+
 # 🛍️ Advanced Machine Learning Analysis in Retail 📈
 
 ## Overview
@@ -60,6 +68,14 @@ Join the league of data wizards! Contributions are not just welcome, they're cel
 ---
 
 Step into the future of retail analytics with this vibrant and engaging readme. Let's transform data into insights and insights into action! 🚀🔮✨
+
+---
+
+<p align="center">
+  <img src="https://th.bing.com/th/id/OIG2.6vN1lUpIty9xgiOB6Ajn?pid=ImgGn" alt="Project Image" width="800" height="800">
+</p>
+
+---
 
 ###
 
