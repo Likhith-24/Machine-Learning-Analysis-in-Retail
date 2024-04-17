@@ -71,7 +71,7 @@ Step into the future of retail analytics with this vibrant and engaging readme. 
 
 ###
 
-<p align="left">I'm Likhith<br><br>- 🔭 I’m working as a Student<br>- 📚 I'm currently learning Data Science, Machine Learning, AI, and much more!<br>- ⚡ In my free time I read about tech-stuff and self-improve</p>
+<p align="left">I'm Likhith<br><br> 🔭 I’m working as a Student<br> 📚 I'm currently learning Data Science, Machine Learning, AI, and much more!<br> ⚡ In my free time I read about tech-stuff and self-improve</p>
 
 ###
 
